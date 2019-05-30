@@ -1,4 +1,4 @@
-# gnapi_lambda_vandium
+# lambda_vandium
 vandiumを使用した形
 
 ## 参考資料
